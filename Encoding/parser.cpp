@@ -20,6 +20,9 @@ namespace HTML_encode
 			else {
 				switch (ch)
 				{
+				case ' ':
+					encoded_text += "%20";
+					break;
 				case '#':
 					encoded_text += "%23";
 					break;
