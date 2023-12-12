@@ -1,2 +1,2 @@
-# Cpp_to_HTML_Encoding
-Makes C++ string readable by HTML
+# HTML_Encoding
+Just a simple C++ string encoding to HTML
